@@ -75,5 +75,5 @@ print(confusion_matrix(y_test,logreg_predictions))
 print(confusion_matrix(y_test,rfc_predictions))
 print(confusion_matrix(y2_test,knn_predictions))
 
-
+input('Press ENTER to exit')
 #
